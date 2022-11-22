@@ -2,4 +2,7 @@
 .env
 db.sqlite3
 .env
+./env
+../env
+
 /home/thiagomonserrat/koniaapi/.env
