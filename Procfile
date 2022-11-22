@@ -1,0 +1,1 @@
+web: gunicorn koniaapi.wsgi --log-file -
